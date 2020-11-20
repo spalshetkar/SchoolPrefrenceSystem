@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ce53b7c-fb28-4ce1-be9b-b61957f8c09b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kOSoqf0CBOfJ4brGwrkwAA4Lsg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="driver.Driver" />
+      <module name="SchoolPreferenceSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce53b7c-fb28-4ce1-be9b-b61957f8c09b" name="Default Changelist" comment="" />
+      <created>1605570323298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605570323298</updated>
+      <workItem from="1605570325829" duration="24336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605570460783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1605570460783" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1605845181816">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1605845181816" />
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605570432612">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.814@0.25.1440.814" timestamp="1605570432612" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605653792817">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605653792817" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1605846946278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605846946278" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1605846946277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605846946277" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1605846946277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605846946276" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1605846946277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605846946277" />
+    <state x="208" y="25" width="1024" height="814" key="SettingsEditor" timestamp="1605576992821">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="25" width="1024" height="814" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605576992821" />
+    <state x="587" y="248" key="UIDesigner.ListEditorDialog" timestamp="1605663943535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="587" y="248" key="UIDesigner.ListEditorDialog/0.0.1440.900@0.0.1440.900" timestamp="1605663943535" />
+    <state x="434" y="347" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605572446379">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="434" y="347" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1440.814@0.25.1440.814" timestamp="1605572446379" />
+    <state x="458" y="217" key="extract.method.dialog" timestamp="1605845362541">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="217" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1605845362541" />
+  </component>
+</project>
